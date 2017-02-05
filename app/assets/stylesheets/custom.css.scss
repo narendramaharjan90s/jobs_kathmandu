@@ -1,2 +1,49 @@
+p {
+    float: left;
+    
+}
+p #hd-container {
+    float: left;
+    list-style: none;
+}
+ul li{
+  float: left; 
+   margin-left: 15px;
+}
+ul {
+    float: right;
+    list-style: none;
+}
+
+#index {
+    background-color: #1275ff;
+}
+footer {
+    margin-bottom: 45px;
+    padding-top: 5px;
+    border-top: 1px solid #eaeaea;
+    
+    
+}
+
+footer a:hover {
+    color: #222;
+    
+}
+footer small {
+    float: left;
+}
+footer ul {
+    float: right;
+    list-style: none;
+}
+footer ul li {
+    float: left;
+    margin-left: 15px;
+}
+.logo {
+    font-size:100px;
+}
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
